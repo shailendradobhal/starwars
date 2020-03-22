@@ -98,6 +98,7 @@ const Login = () => {
             value={password}
             name='password'
             onChange={onHandleChangePassword}
+            type='password'
           />
         </Grid>
         <Grid item xs={12}>

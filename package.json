@@ -2,7 +2,7 @@
   "name": "star-wars",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shailendradobhal.github.io/starwars",
+  "homepage": "https://shailendradobhal.github.io/starwars/",
   "dependencies": {
     "@material-ui/core": "^4.9.7",
     "@material-ui/lab": "^4.0.0-alpha.46",

@@ -45,6 +45,9 @@ const Search = () => {
     <div>
       <Grid container spacing={3}>
         <Grid item xs={12}>
+          <h1>Search Planets</h1>
+        </Grid>
+        <Grid item xs={12}>
           <TextField
             id='outlined-basic'
             label='planet'

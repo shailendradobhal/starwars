@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 function App() {
   return (
     <div className='App'>
-      <Router>
+      <Router basename="/starwars">
         <Switch>
           <Route exact path='/' component={Login} />
           <Route exact path='/search' component={Search} />
